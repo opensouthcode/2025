@@ -1,4 +1,4 @@
-# OpenSouthCode 2024
+# OpenSouthCode 2025
 
 La Conferencia de Software Libre del Sur de Europa
 
